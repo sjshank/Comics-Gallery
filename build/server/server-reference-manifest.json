@@ -1,0 +1,36 @@
+{
+  "node": {
+    "6bc4dcb9d62b0f37994a43bd9c1d0be77a587582": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsaurabhshankariya%2FDevelopment%2Flearning%2FNextjs-learning%2FSuperhero%20Gallery%2Fsuperheros_gallery%2Fsrc%2Flib%2Factions.tsx%22%2C%5B%22getAllVillains%22%2C%22getAllHeros%22%2C%22searchSuperhero%22%5D%5D%5D&__client_imported__=!",
+        "app/[superhero]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsaurabhshankariya%2FDevelopment%2Flearning%2FNextjs-learning%2FSuperhero%20Gallery%2Fsuperheros_gallery%2Fsrc%2Flib%2Factions.tsx%22%2C%5B%22getAllVillains%22%2C%22getAllHeros%22%2C%22searchSuperhero%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/[superhero]/page": "rsc"
+      }
+    },
+    "a401459879d7f7b3c77917b0931d6434776468c0": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsaurabhshankariya%2FDevelopment%2Flearning%2FNextjs-learning%2FSuperhero%20Gallery%2Fsuperheros_gallery%2Fsrc%2Flib%2Factions.tsx%22%2C%5B%22getAllVillains%22%2C%22getAllHeros%22%2C%22searchSuperhero%22%5D%5D%5D&__client_imported__=!",
+        "app/[superhero]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsaurabhshankariya%2FDevelopment%2Flearning%2FNextjs-learning%2FSuperhero%20Gallery%2Fsuperheros_gallery%2Fsrc%2Flib%2Factions.tsx%22%2C%5B%22getAllVillains%22%2C%22getAllHeros%22%2C%22searchSuperhero%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/[superhero]/page": "rsc"
+      }
+    },
+    "d0263d0f75546c9ee375d3a9d38d11d1e8a739a8": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsaurabhshankariya%2FDevelopment%2Flearning%2FNextjs-learning%2FSuperhero%20Gallery%2Fsuperheros_gallery%2Fsrc%2Flib%2Factions.tsx%22%2C%5B%22getAllVillains%22%2C%22getAllHeros%22%2C%22searchSuperhero%22%5D%5D%5D&__client_imported__=!",
+        "app/[superhero]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsaurabhshankariya%2FDevelopment%2Flearning%2FNextjs-learning%2FSuperhero%20Gallery%2Fsuperheros_gallery%2Fsrc%2Flib%2Factions.tsx%22%2C%5B%22getAllVillains%22%2C%22getAllHeros%22%2C%22searchSuperhero%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/[superhero]/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "X9+ykrn3g1HMh0oYMKFYXnav1URyRUTioZXod4DV5H0="
+}
