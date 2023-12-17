@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/saurabhshankariya/Development/learning/Nextjs-learning/Superhero Gallery/superheros_gallery/src/app/layout\":[\"static/media/77a4ef95434270af-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
