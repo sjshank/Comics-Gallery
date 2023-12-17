@@ -23,10 +23,12 @@ This project has utilized some of the important features of NextJS & ReactJS
 <img width="816" alt="Screenshot 2023-12-17 at 4 30 21 PM" src="https://github.com/sjshank/Comics-Gallery/assets/17022643/895aec6e-408e-4f1f-b501-ae8ea1d3063a">
 
 
+
 Steps to run :
 - npm install
 - npm run dev
 - localhost:3000
 
+Note : It requires RapidAPI key to fetch data. Please utilize your's key to pull data.
 
 https:sjshank.me
